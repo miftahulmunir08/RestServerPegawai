@@ -1,0 +1,9 @@
+Dokumentasi saya ketika membuat
+
+1. menginstall code igiter 3            (https://codeigniter.com/download)
+2. mendonwload library rest server      ( https://github.com/zeeistorage/CodeIgniter-Rest-Server-3.11.1)
+3. mencopy semua yang didalam application seperti controller,config,helpers,hooks,language,libraries,migration,views
+4. timpa ke folder ci 3 yang sudah didownload
+
+folder diatas tinggal copypaste dan siap digunakan...sebelum itu silahkan import database .sql sudah tertera di folder 
+
