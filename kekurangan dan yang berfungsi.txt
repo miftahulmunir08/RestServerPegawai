@@ -1,0 +1,12 @@
+server
+kekurangan untuk server belum bisa update
+Sistem yang berfungsi
+bisa delete,detail,get
+
+client 
+belum bisa create new untuk foto
+belum bisa update 
+
+Sistem yang berfungsi
+bisa delete,detail,get
+
